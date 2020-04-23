@@ -1,5 +1,5 @@
 # Interesting Tools
-This is a collection of interesting tools by me
+Just interesting
 
 ## Team Management
 * https://wekan.github.io/ Open-Source kanban
